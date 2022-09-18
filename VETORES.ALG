@@ -2,11 +2,8 @@ Algoritmo "Vetores"
 
 Var
 
-vetorNomes: vetor[1..5] de literal
-//nome1, nome2, nome3, nome4, nome5: inteiro
-
-vetorIdade: vetor[1..5] de inteiro
-//idade1, idade2, idade3, idade4, idade5: inteiro
+vetorNomes: vetor[1..5] de caractere
+//nome1, nome2, nome3, nome4, nome5: caractere
 
 i: inteiro
 
